@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670805444 source:/home/denni/Escritorio/juego_con_maquina/main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
